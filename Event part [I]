@@ -1,0 +1,84 @@
+12884183895 - Place Id [EVENT]
+1839806888 - Waiting Theme
+5300125017 - Universe Id
+Legend;
+" - Said by the main, anonymous narrator.
+* - Said by 'BOSS ONE'.
+(x) - Said in/an non literal way, in/an outer, indirect perspective.
+{x} - Said in/an literal way, talking to the players directly.
+[x] - Said as/an annoucement of an event.
+<> - Width of numbers, arrays, or any variable.
+" - Speech through the ';m' command.
+' - Clarification of something.
+! - Important clarification.
+? - Needs confirmation, or further testing.
+UPPERCASE - System proccedure, or to be remarked, as if was not already.
+___________________
+PRE-START SEQUENCE;
+("The narrator tells a small tale about how the survivors got into here.")
+_________________
+STARTING SEQUENCE;
+INCLUDES;
+SAME WEAPONS AS 'BOSS 2' AND,
+DROPS BOMBS EVERYWHERE, WITH TWO LAPS,
+THE SONG BEING 'UNREASONABLE BEHAVIOUR'
+REFER TO AS BOSS 0 OR 'INTERMISSION PERIOD'
+BOSS ZERO TIME, ';TIME 14'
+('May also have a few dialogues, though not needed, precisely')
+________________________
+Boss 1. "TABAREGAMESALT" 
+HP; 5345
+Gear; 11563251 F. Bomb
+1088051376 S. Axe
+Music; 15394266157 | Daniel B. Intro YES
+Dialogue Contents;
+{(*" tabaregamesalt greets the newcomers, in an, not precisely warm way. He talks trash about them, and wishes them bad luck. To it's surprise, it is easily defeated by them, left mesmerized by their strenght."*)}
+-----
+UPON BEING DEFEATED, THE TIME WILL BE MOVED FORWARDS, AND ADVANCED TO NEXT WAVE.
+BOSS ONE TIME, ';TIME 16'
+______________________
+Boss 2. calinho12
+HP; 23235
+UPPON SPAWNING, WILL HAVE SET DOWN A COUNTDOWN OF <200-300> SECONDS BEFORE FINALLY 'Exploding' AND, ENDING THE BOSSFIGHT.
+ ! PLEASE NOTE;NON-ARRAYED GEAR IS NOT USEABLE FOR 'BOSS ZERO', A.K.A 'STARTING SEQUENCE'.
+<28277486 - Bomb 1>
+<108875216 - Bomb 2> 
+<11563251 - Bomb 3>
+<48596336 - Bomb 4>
+80576952 Time Bomb
+11999247 Subspace T.
+104642566 Fake C4
+---
+UPON REACHING LOW TIME <50-60> SECONDS OR '<15-20>' '%' OF TIME LEFT, WILL GAIN '88885539 - Airstrike' <x3> TIMES, USING IT ALONG WITH THE OTHER WEAPONS.
+88885539 Airstrike [RAGE ONLY, 30s left]
+Music; 15451614087 Monsterbreaks, Waterflame YES
+('Includes constant dialogue about attaining it's objective.')
+UPON 'DEATH', TRANSICTION TO 'INTERSECTION 2, CALINHO12 DEATH EXPLOSION'
+___________________________________________
+[INTERSECTION 2, CALINHO12 DEATH EXPLOSION]
+MUSIC, KONAMI: Never forgive, never forget me.
+Large explosion displayed across the map.
+-
+Boss 3. Twin Z. Siamessy
+Music; 15098117070
+Gear; 
+-
+Boss 4. Patience.
+Music;
+
+
+
+15395209264 Sweet Sugar Swing
+12545543516 Titanic Monarch, Sonic Mania
+12900341104 Never forgive me, never forget me, Konami
+11998101135 Special stage, SilvaGunner
+11521012245 Magmatic Stage, Super M. Part 9
+15098117070 M. Tap Delay Nightmare, Alias Conrad Coldwood.
+11099008255 Avatar Beat, Alias Conrad C.
+11489685229 Overcast, Kevin Macleod
+11504207574 The thief, TBOI
+11998199685 Theme of Ryu, MvC3
+10560673694 2011, Colbreakz
+1842652230 Toxic, Lemoncake
+11522612422 Unreasonable Behaviour, Alias Conrad C.
+15451884826 Michi [S. 5], Dodonpachi Saidojo

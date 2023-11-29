@@ -13,6 +13,7 @@ Legend;
 ! - Important clarification.
 ? - Needs confirmation, or further testing.
 UPPERCASE - System proccedure, or to be remarked, as if was not already.
+SIG. Gear - Main, most used gear of the boss. First weapon of their attack cycle.
 ___________________
 PRE-START SEQUENCE;
 ("The narrator tells a small tale about how the survivors got into here.")
@@ -28,8 +29,8 @@ BOSS ZERO TIME, ';TIME 14'
 ________________________
 Boss 1. "TABAREGAMESALT" 
 HP; 5345
-Gear; 11563251 F. Bomb
-1088051376 S. Axe
+Signature Gear; 11563251 - F. Bomb
+Gear; 1088051376 S.- Axe
 Music; 15394266157 | Daniel B. Intro YES
 Dialogue Contents;
 {(*" tabaregamesalt greets the newcomers, in an, not precisely warm way. He talks trash about them, and wishes them bad luck. To it's surprise, it is easily defeated by them, left mesmerized by their strenght."*)}
@@ -41,6 +42,8 @@ Boss 2. calinho12
 HP; 23235
 UPPON SPAWNING, WILL HAVE SET DOWN A COUNTDOWN OF <200-300> SECONDS BEFORE FINALLY 'Exploding' AND, ENDING THE BOSSFIGHT.
  ! PLEASE NOTE;NON-ARRAYED GEAR IS NOT USEABLE FOR 'BOSS ZERO', A.K.A 'STARTING SEQUENCE'.
+Signature Gear; N/A
+Gear;
 <28277486 - Bomb 1>
 <108875216 - Bomb 2> 
 <11563251 - Bomb 3>
@@ -63,7 +66,18 @@ Boss 3. Twin Z. Siamessy
 Music; 15098117070
 Gear; 
 -
-Boss 4. Patience.
+Boss 4. Jöttun
+HP; 99999
+{" Jöttun speaks to the players in a cold, serious tone. He offers the players greater swords, claiming himself as an entity full of discipline and respect."}
+[" Will also slightly alter the map, adding a few rocks and spikes scattered around, before finally giving in and starting the fight."]
+THE PLAYERS FINALLY RECEIVE THEIR SWORDS AS JÖTTUN LUNGES AT THEM IN BEAT WITH THE MUSIC, CREATING AN AMBIGIOUS AMBIENCE.
+JÖTTUN PLAYS AGGRESIVE AND RISKY, EXPOSING HIMSELF OFF VULNERABLE TO THE PLAYERS.
+Signature Gear; 286526176 - Adurite Katana
+Gear; 121925044 - Red B. Bow
+130113061 - Hyperbike
+44116233 - Megaphone
+68603151 - All S. Sentry
+212296936 - Red Hyperlaser
 Music;
 
 
